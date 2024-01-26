@@ -6,3 +6,6 @@ A Tribute page to Dr Norman Borlaug, an American agronomist who led initiatives 
 git checkout -b 'development'
 
 **development branch is created**
+
+**feature branch is created**
+git checkout -b 'feature branch'
