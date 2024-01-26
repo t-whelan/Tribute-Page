@@ -9,3 +9,9 @@ git checkout -b 'development'
 
 **feature branch is created**
 git checkout -b 'feature branch'
+
+npx hint .
+
+-to fix for error
+
+npc hint . --fix
