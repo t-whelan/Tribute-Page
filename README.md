@@ -14,4 +14,4 @@ npx hint .
 
 -to fix for error
 
-npc hint . --fix
+npx hint . --fix
