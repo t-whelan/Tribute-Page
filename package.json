@@ -1,0 +1,15 @@
+{
+  "name": "tribute-page",
+  "version": "1.0.0",
+  "description": "A Tribute page to Dr Norman Borlaug, an American agronomist who led initiatives worldwide that contributed to the extensive increases in agricultural production .",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hint": "^7.1.10"
+  }
+}
